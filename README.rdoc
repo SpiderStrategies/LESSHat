@@ -2,7 +2,7 @@
 
 ==Why Fork?
 
-We love [LESSHat](http://lesshat.com), but we also love [Bootstrap](http://twitter.github.com/bootstrap/).  The problem is that they don't love each other.
+We love LESSHat[http://lesshat.com], but we also love Bootstrap[http://twitter.github.com/bootstrap/].  The problem is that they don't love each other.
 
 The only thing this fork does is prepend a "hat-" to all LESSHat mixins names so that LESSHat mixins don't conflict with Bootstrap mixins.
 
